@@ -1,6 +1,7 @@
 git add
 git commit 
-git push 
+git push
+git stash pop 
 git pull
 git commit --amend
 git stash
