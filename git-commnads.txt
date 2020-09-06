@@ -7,3 +7,4 @@ git pull --> pull updates from the remote (update local repository with remote)
 git commit --amend --> Edit commit message (only for the latest/last commit)
 git stash
 git log --> to show commit history in command line
+git branch -a --> to show branches available
