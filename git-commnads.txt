@@ -8,3 +8,4 @@ git commit --amend --> Edit commit message (only for the latest/last commit)
 git stash
 git log --> to show commit history in command line
 git branch -a --> to show branches available
+git branch -D <branch name> --> to delete a branch
