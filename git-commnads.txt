@@ -1,7 +1,9 @@
-git add
-git commit 
-git push
+git status --> to check which files has been changed
+git add --> add files to staged area from unstaged
+git commit --> Commit changed files and changes (create a checkpoint) 
+git push --> Push commit to remote url (github or similar)
 git stash pop 
-git pull
-git commit --amend
+git pull --> pull updates from the remote (update local repository with remote)
+git commit --amend --> Edit commit message (only for the latest/last commit)
 git stash
+git log --> to show commit history in command line
